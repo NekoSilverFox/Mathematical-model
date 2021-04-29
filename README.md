@@ -176,6 +176,91 @@
 
 
 
+# 离散数学
+
+## 数理逻辑
+
+### 命题逻辑
+
+一、命题：能判断其真假的陈述句
+
+- 命题的真值：真、假
+- 真命题、假命题；简单命题（原子命题）、复合命题
+
+例子：
+
+- 北京时中国的首都
+
+  （真）（T，1）
+
+- 请关门
+
+  (假)
+
+- 2x + 4 >= 10
+
+  (假) **因为命题的真值唯一**
+
+- 我正在说假话
+
+  (假) 悖论
+
+## 命题联结词
+
+![image-20210429142553755](README.assets/image-20210429142553755.png)
+
+![image-20210429143316541](README.assets/image-20210429143316541.png)
+
+![image-20210429143520506](README.assets/image-20210429143520506.png)
+
+![image-20210429143722469](README.assets/image-20210429143722469.png)
+
+![image-20210429143931748](README.assets/image-20210429143931748.png)
+
+![image-20210429144723833](README.assets/image-20210429144723833.png)
+
+![image-20210429185239212](README.assets/image-20210429185239212.png)
+
+![image-20210429185603880](README.assets/image-20210429185603880.png)
+
+​	![image-20210429185909643](README.assets/image-20210429185909643.png)
+
+ ## 等值演算
+
+![image-20210429211342048](README.assets/image-20210429211342048.png)
+
+![image-20210429211435639](README.assets/image-20210429211435639.png)
+
+![image-20210429211654955](README.assets/image-20210429211654955.png)
+
+![image-20210429212216969](README.assets/image-20210429212216969.png)
+
+![image-20210429212509096](README.assets/image-20210429212509096.png)
+
+![image-20210429212619146](README.assets/image-20210429212619146.png)
+
+![image-20210429213507584](README.assets/image-20210429213507584.png)
+
+![image-20210429213833128](README.assets/image-20210429213833128.png)
+
+![image-20210429214129137](README.assets/image-20210429214129137.png)
+
+![image-20210429214305005](README.assets/image-20210429214305005.png)
+
+![image-20210429214446214](README.assets/image-20210429214446214.png)
+
+![image-20210429214611280](README.assets/image-20210429214611280.png)
+
+ ![image-20210429214901715](README.assets/image-20210429214901715.png)
+
+![image-20210429215034441](README.assets/image-20210429215034441.png)
+
+![image-20210429215123765](README.assets/image-20210429215123765.png)
+
+![image-20210429215628910](README.assets/image-20210429215628910.png)
+
+![image-20210429220258785](README.assets/image-20210429220258785.png)
+
 
 
 
