@@ -1,3 +1,7 @@
+[toc]
+
+
+
 # 概念及定义
 
 `驻点 стационарная точка` - 驻点就是这样的点, 函数在该处的偏微分全部为0，使用雅阁比矩阵的特征值可以衡量
@@ -173,6 +177,66 @@
 ```
 
 ```
+
+
+
+# 数值分析
+
+
+
+## 最优化算法
+
+### 优化设计概论
+
+![image-20210518215512236](README.assets/image-20210518215512236.png)
+
+![image-20210518215713905](README.assets/image-20210518215713905.png)
+
+![image-20210518215821604](README.assets/image-20210518215821604.png)
+
+![image-20210518220131290](README.assets/image-20210518220131290.png)
+
+![image-20210518220457940](README.assets/image-20210518220457940.png)
+
+![image-20210518221213711](README.assets/image-20210518221213711.png)
+
+![image-20210518221408458](README.assets/image-20210518221408458.png)
+
+![image-20210518221551531](README.assets/image-20210518221551531.png)
+
+![image-20210518222058053](README.assets/image-20210518222058053.png)
+
+![image-20210518224209084](README.assets/image-20210518224209084.png)
+
+![image-20210518224712997](README.assets/image-20210518224712997.png)
+
+![image-20210518225854436](README.assets/image-20210518225854436.png)
+
+
+
+### 优化设计的极值理论与数学基础
+
+![image-20210518231617446](README.assets/image-20210518231617446.png)
+
+![image-20210518231709669](README.assets/image-20210518231709669.png)
+
+![image-20210518232350579](README.assets/image-20210518232350579.png)
+
+![image-20210518232556684](README.assets/image-20210518232556684.png)
+
+![image-20210518232736587](README.assets/image-20210518232736587.png)
+
+![image-20210518232857468](README.assets/image-20210518232857468.png)
+
+
+
+
+
+
+
+
+
+### 二次型函数梯度下降法
 
 
 
